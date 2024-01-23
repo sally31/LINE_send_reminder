@@ -4,8 +4,11 @@ send a reminder every day at 8AM until the Costco day
 
 # Library
 
-datetime
-locale requests schedule import time date
+* datetime
+* locale
+* requests
+* schedule
+* date
 
 # discription
 this is for send a reminder in LINE APP. 
